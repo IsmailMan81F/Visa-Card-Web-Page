@@ -46,7 +46,7 @@ This project is a responsive web page designed to display Visa card information 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/visa-card-webpage.git
+git clone https://github.com/IsmailMan81F/Visa-Card-Web-Page.git
 ```
 ## Usage
 
