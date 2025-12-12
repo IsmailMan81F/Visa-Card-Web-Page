@@ -70,8 +70,8 @@ git clone https://github.com/IsmailMan81F/Visa-Card-Web-Page.git
 
 Have questions, feedback, or want to collaborate? Reach out to me:
 
-- **Email:** [ismailmeguehout99@example.com](mailto:ismailmeguehout99@example.com)  
-- **GitHub:** [IsmailMan81F](https://github.com/IsmailMan81F)  
+- **Email:** [ismailmeguehout99@example.com](mailto:ismailmeguehout99@example.com)
+- **GitHub:** [IsmailMan81F](https://github.com/IsmailMan81F)
 - **LinkedIn:** [IsmailMeg](https://www.linkedin.com/in/IsmailMeg/)  
 
 Feel free to connect via any of the platforms above!
