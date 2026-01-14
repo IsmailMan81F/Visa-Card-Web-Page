@@ -36,7 +36,7 @@ This project is a responsive web page designed to display Visa card information 
 
 - HTML5
 - CSS3 / SCSS
-- JavaScript (optional for interactivity)
+- JavaScript 
 - ReactJS + Vite
 
 ---
@@ -46,7 +46,7 @@ This project is a responsive web page designed to display Visa card information 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/visa-card-webpage.git
+git clone https://github.com/IsmailMan81F/Visa-Card-Web-Page.git
 ```
 ## Usage
 
@@ -60,7 +60,7 @@ git clone https://github.com/yourusername/visa-card-webpage.git
 ## Screenshots
 
 
-![Visa Card Web Page Screenshot](assets/images/visa-screenshot.png)
+![Visa Card Web Page Screenshot](public/assets/visa-card-screenshot.png)
 
 *Example of the Visa Card Web Page layout and design.*
 
@@ -70,8 +70,8 @@ git clone https://github.com/yourusername/visa-card-webpage.git
 
 Have questions, feedback, or want to collaborate? Reach out to me:
 
-- **Email:** [ismailmeguehout99@example.com](mailto:ismailmeguehout99@example.com)  
-- **GitHub:** [IsmailMan81F](https://github.com/IsmailMan81F)  
+- **Email:** [ismailmeguehout99@example.com](mailto:ismailmeguehout99@example.com)
+- **GitHub:** [IsmailMan81F](https://github.com/IsmailMan81F)
 - **LinkedIn:** [IsmailMeg](https://www.linkedin.com/in/IsmailMeg/)  
 
 Feel free to connect via any of the platforms above!
